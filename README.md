@@ -1,2 +1,3 @@
 # hello-world
-this for learning purpose
+this for learning purpose -
+i am kithsiri lekamge
